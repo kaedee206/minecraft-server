@@ -5,8 +5,8 @@
   - Chế độ: sinh tồn
   - Tốc độ: mượt hay không thì do nhà bạn
   - Cấu hình máy: CPU: AMD EPYC 7713,
-                  \nRAM: 16GB,
-                  \nSSD: 320GB,
+                  RAM: 16GB,
+                  SSD: 320GB,
 Mọi thông tin chi tiết cũng như có bất kì câu hỏi gì các bạn có thể liên hệ mình: www.facebook.com/kaedee206
 
 
